@@ -41,13 +41,16 @@ Example request:
   "params": { "a": 10, "b": 20 },
   "timestamp": 1766997922
 }
+```
 
 Example response:
+```json
 {
   "request_id": "uuid",
   "result": 30,
   "status": "OK"
 }
+```
 
 🚀 How to Run
 1️⃣ Server Setup (EC2 Server Node)
